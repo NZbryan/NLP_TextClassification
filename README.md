@@ -1,2 +1,2 @@
 # NLP_TextClassification
-state of the art for text classification
+state of the art algorithms for text classification
